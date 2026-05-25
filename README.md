@@ -4,10 +4,10 @@
 
 ## 下载
 
-- [下载全部高清图片 ZIP](https://github.com/your-name/100-layout-compositions/releases/latest/download/100-layout-compositions-images.zip)
+- [下载全部高清图片 ZIP](https://github.com/nevertoday/100-layout-compositions/releases/latest/download/100-layout-compositions-images.zip)
 - 单张高清图：点击下方任意缩略图即可打开对应 PNG。
 
-> 发布到 GitHub 后，把上面的 `your-name/100-layout-compositions` 改成实际仓库地址。ZIP 文件建议作为 GitHub Release 附件上传，不要直接提交进仓库。
+> ZIP 文件作为 GitHub Release 附件提供，不直接提交进仓库。
 
 ## 项目结构
 
