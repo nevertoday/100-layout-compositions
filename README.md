@@ -14,6 +14,7 @@
 ```text
 images/       高清 PNG 原图，共 100 张
 thumbnails/   README 预览缩略图，共 100 张
+docs/         README 使用的项目说明图片
 dist/         本地生成的下载压缩包，不提交到 Git
 ```
 
@@ -202,6 +203,16 @@ dist/         本地生成的下载压缩包，不提交到 Git
 - 交流、学习和个人参考可以直接下载使用。
 - 如果你要二次发布、改编或商用，请先确认图片生成来源、人物/品牌/素材权利是否覆盖对应用途。
 - 如果你基于这些图片做了新的排版实验，欢迎在 Issue 或 Discussion 里交流。
+
+## 支持作者
+
+这个图片合集会继续保持免费开源。如果它帮你节省了整理和参考排版构图的时间，也愿意支持后续维护，可以扫描下面的 Buy Me a Coffee 二维码请作者喝杯咖啡。完全自愿；反馈、Star 和 issue 同样有帮助。
+
+<img src="docs/images/buy-me-a-coffee-qr.png" alt="Buy Me a Coffee 支持二维码" width="220">
+
+## 联系作者
+
+可以通过作者 X 主页联系：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。
 
 ## 许可证
 
